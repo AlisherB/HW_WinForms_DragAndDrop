@@ -1,0 +1,10 @@
+Z:\WinForms\HW_WinForms_DragAndDrop\LastTask\bin\Debug\LastTask.exe.config
+Z:\WinForms\HW_WinForms_DragAndDrop\LastTask\bin\Debug\LastTask.exe
+Z:\WinForms\HW_WinForms_DragAndDrop\LastTask\bin\Debug\LastTask.pdb
+Z:\WinForms\HW_WinForms_DragAndDrop\LastTask\obj\Debug\LastTask.Properties.Resources.resources
+Z:\WinForms\HW_WinForms_DragAndDrop\LastTask\obj\Debug\LastTask.csproj.GenerateResource.Cache
+Z:\WinForms\HW_WinForms_DragAndDrop\LastTask\obj\Debug\LastTask.csproj.CoreCompileInputs.cache
+Z:\WinForms\HW_WinForms_DragAndDrop\LastTask\obj\Debug\LastTask.exe
+Z:\WinForms\HW_WinForms_DragAndDrop\LastTask\obj\Debug\LastTask.pdb
+Z:\WinForms\HW_WinForms_DragAndDrop\LastTask\obj\Debug\LastTask.AddMenuItemForm.resources
+Z:\WinForms\HW_WinForms_DragAndDrop\LastTask\obj\Debug\LastTask.csprojResolveAssemblyReference.cache
